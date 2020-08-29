@@ -1,8 +1,8 @@
 {
   "name": "clash-of-clans-sdk-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Clash of Clans unofficial SDK",
-  "main": "index.js",
+  "main": "clash-of-clans-sdk-node.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ashwin1111/clash-of-clans-sdk-node.git"
