@@ -1,4 +1,4 @@
-const ClashOfClansSDK = require('./src/coc');
+const ClashOfClansSDK = require('./clash-of-clans-sdk-node');
 
 
 ; (async function main() {
