@@ -1,4 +1,4 @@
-### [Clash of Clans SDK](https://developer.clashofclans.com/) 🎮
+### [Clash of Clans Unofficial SDK](https://www.npmjs.com/package/clash-of-clans-sdk-node) 🎮
 
 ## Install :star2:
 
