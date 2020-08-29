@@ -1,15 +1,3 @@
-### [Clash of Clans SDK](https://developer.clashofclans.com/) 🎮
-
-## Install :star2:
-
-```
-npm i clash-of-clans-sdk-node
-```
-
-## Usage:sparkles:
-
-
-```javascript
 const ClashOfClansSDK = require('./src/coc');
 
 
@@ -35,7 +23,3 @@ const ClashOfClansSDK = require('./src/coc');
     const deleteKey = await connection.deleteKey('id-goes-here');
     console.log(deleteKey)
 })()
-```
-
-## Author👨‍💻
-<a href="https://ashwin.engineer/">Ashwin</a>

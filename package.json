@@ -1,0 +1,27 @@
+{
+  "name": "clash-of-clans-sdk-node",
+  "version": "1.0.0",
+  "description": "Clash of Clans unofficial SDK",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwin1111/clash-of-clans-sdk-node.git"
+  },
+  "keywords": [
+    "coc",
+    "clash-of-clans",
+    "sdk"
+  ],
+  "author": "Ashwin Thanaraj <ashwinthanaraj@gmail.com> (https://ashwin.engineer/)",
+  "contributors": [
+    "Ashwin Thanaraj <ashwinthanaraj@gmail.com> (https://ashwin.engineer/)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ashwin1111/clash-of-clans-sdk-node/issues"
+  },
+  "homepage": "https://github.com/ashwin1111/clash-of-clans-sdk-node#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
