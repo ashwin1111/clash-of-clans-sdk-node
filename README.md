@@ -6,6 +6,9 @@
 npm i clash-of-clans-sdk-node
 ```
 
+## NPM 👾
+<a href="https://www.npmjs.com/package/clash-of-clans-sdk-node">https://www.npmjs.com/package/clash-of-clans-sdk-node</a>
+
 ## Usage:sparkles:
 
 
