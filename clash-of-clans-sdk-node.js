@@ -6,7 +6,6 @@ const listTokens = '/apikey/list/';
 const createKeys = '/apikey/create/';
 const revokeKey = '/apikey/revoke/';
 
-// {id}
 
 module.exports = class ClashOfClansSDK {
   /**
