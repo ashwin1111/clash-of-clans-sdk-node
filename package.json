@@ -29,11 +29,5 @@
   "homepage": "https://github.com/ashwin1111/clash-of-clans-sdk-node#readme",
   "dependencies": {
     "node-fetch": "^2.6.0"
-  },
-  "bin": {
-    "clash-of-clans-sdk-node": "./clash-of-clans-sdk-node.js"
-  },
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/"
   }
 }
