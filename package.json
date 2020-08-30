@@ -1,6 +1,6 @@
 {
   "name": "clash-of-clans-sdk-node",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Clash of Clans unofficial SDK",
   "main": "clash-of-clans-sdk-node.js",
   "repository": {
@@ -29,5 +29,6 @@
   "homepage": "https://github.com/ashwin1111/clash-of-clans-sdk-node#readme",
   "dependencies": {
     "node-fetch": "^2.6.0"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
